@@ -1,0 +1,18 @@
+.tamanho { 
+    font-size: 50px; 
+}
+#coramarelo { 
+    background-color: yellow;
+} 
+.corvermelha { 
+    background-color: red;
+}
+
+.corvermelha {
+    background-color:rgb(0, 13, 255);
+    color: white
+}
+ol li a{
+    font-size: 20px;
+}
+div p strong a{font-size: 30px;}
